@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "5201314",
+  "base_artist": "鐘 嵐珠 (CV.法元明菜)",
+  "createdAt": "2025-12-14T06:05:57.757419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "5201314",
+      "artist": "Lanzhu Zhong (CV: Akina Homoto)",
+      "has_synced": false,
+      "path": "select/01_5201314_Lanzhu_Zhong_(CV__Akina_Homoto).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "5201314",
+      "artist": "Zhong Lanzhu (CV: Akina Houmoto)",
+      "has_synced": true,
+      "path": "select/02_5201314_Zhong_Lanzhu_(CV__Akina_Houmoto).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "5201314",
+      "artist": "zhong lanzhu",
+      "has_synced": true,
+      "path": "select/03_5201314_zhong_lanzhu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "5201314",
+      "artist": "鐘嵐珠(法元明菜)",
+      "has_synced": false,
+      "path": "select/pl_01_5201314_鐘嵐珠(法元明菜).txt"
+    }
+  ]
+}
